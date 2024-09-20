@@ -1,6 +1,6 @@
 {
-  "name": "react-table-responsive",
-  "version": "0.0.9",
+  "name": "react-table-responsive-sb",
+  "version": "0.1.1",
   "private": false,
   "scripts": {
     "concat:css": "concat -o src/styles/combined.css src/styles/chakraTable.css src/styles/tailwind.css ",
@@ -10,8 +10,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "keywords": [
-    "chakra ui table",
-    "mui table",
+    "chakra-ui-table",
+    "mui-table",
     "react-table",
     "responsive-table",
     "react-table-responsive",
@@ -39,7 +39,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SaiBarathR/react-table-responsive.git"
-  },
-  "homepage": "https://saibarathr.github.io/Reusable-Table/"
+    "url": "git+https://github.com/SaiBarathR/react-table-responsive.git"
+  }
 }

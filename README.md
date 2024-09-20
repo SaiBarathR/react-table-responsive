@@ -7,13 +7,13 @@ This is an npm package for creating tables in any React web application. With th
 ### Installation
 
 ```bash
-npm install react-table-responsive
+npm install react-table-responsive-sb
 ```
 
 ### Usage
 
 ```jsx
-import { ChakraTable } from "react-table-responsive";
+import { ChakraTable } from "react-table-responsive-sb";
 
 const sampleProps = {
   loading: false,
