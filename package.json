@@ -1,6 +1,6 @@
 {
   "name": "react-table-responsive-sb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "scripts": {
     "concat:css": "concat -o src/styles/combined.css src/styles/chakraTable.css src/styles/tailwind.css ",
@@ -40,5 +40,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SaiBarathR/react-table-responsive.git"
-  }
+  },
+  "homepage": "https://saibarathr.github.io/Reusable-Table/"
 }
